@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PHFDelegateChain",
+        "repositoryURL": "https://github.com/mmllr/PHFDelegateChain.git",
+        "state": {
+          "branch": "master",
+          "revision": "bc1176e22575de0e13dc1d1e4b27e615a4710dbe",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
