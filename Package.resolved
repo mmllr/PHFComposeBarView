@@ -5,9 +5,9 @@
         "package": "PHFDelegateChain",
         "repositoryURL": "https://github.com/mmllr/PHFDelegateChain.git",
         "state": {
-          "branch": "master",
-          "revision": "bc1176e22575de0e13dc1d1e4b27e615a4710dbe",
-          "version": null
+          "branch": null,
+          "revision": "f2ec82f250631adef058ac97a19387fd40445caa",
+          "version": "1.0.2"
         }
       }
     ]
